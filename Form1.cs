@@ -52,7 +52,6 @@ namespace RidiciStruktury08
                             radek = radek.Remove(radek.Length - 2, 1);
                         }
                     }
-
                     radky[i] = radek;
                 }
                 textBox1.Lines = radky;
